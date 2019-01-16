@@ -1,0 +1,15 @@
+#outputGto, #outputGtl, #outputTtc {
+  text-align: center;
+  font-size: 100px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.btn-info {
+  color: yellow;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+  border-radius: 50%;
+}
